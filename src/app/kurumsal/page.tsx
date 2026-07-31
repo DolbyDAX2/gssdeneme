@@ -21,7 +21,7 @@ export default function KurumsalPage() {
                 bir dayanışma ortamı oluşturmak için çalışıyoruz.
               </p>
               <p>
-                Sendikamız; işçi haklarının korunması, adil ücret politikaları,
+                Sendikamız; memur haklarının korunması, adil ücret politikaları,
                 sağlıklı çalışma koşulları ve saygın bir meslek ortamının
                 sağlanması hedefleriyle faaliyet göstermektedir. Karabük şubesi
                 olarak bu hedeflere ilimiz özelinde katkıda bulunmak için
