@@ -18,7 +18,7 @@ const quickAccessItems = [
   {
     icon: "ri-file-list-3-line",
     title: "Mevzuat / Dilekçeler",
-    description: "İşçi hakları ve mevzuata dair örnek dilekçeler",
+    description: "Memur hakları ve mevzuata dair örnek dilekçeler",
     href: `${generalCenterLinks.website}/sayfa/ornek-dilekceler`,
     external: true,
   },
