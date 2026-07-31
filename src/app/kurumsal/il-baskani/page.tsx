@@ -18,7 +18,7 @@ export default function IlBaskaniPage() {
               <div className="sticky top-24">
                 <div className="relative">
                   <div className="absolute -inset-2 bg-gradient-to-br from-[#3364ae]/20 to-[#a73f41]/10 rounded-xl" />
-                  <div className="relative w-full aspect-[4/5] rounded-xl overflow-hidden shadow-lg">
+                  <div className="relative w-full max-w-sm mx-auto aspect-[4/5] rounded-xl overflow-hidden shadow-lg">
                     <div
                       className="absolute inset-0 bg-gradient-to-br from-[#3364ae] to-[#2a5290]"
                     />

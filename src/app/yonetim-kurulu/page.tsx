@@ -21,7 +21,7 @@ export default function YonetimKuruluPage() {
                 </span>
               </div>
               <div className="max-w-sm mx-auto card bg-white overflow-hidden">
-                <div className="aspect-[4/5] overflow-hidden">
+                <div className="relative aspect-[4/5] overflow-hidden">
                   <div
                     className="absolute inset-0 bg-gradient-to-br from-[#3364ae] to-[#2a5290]"
                   />
@@ -58,7 +58,7 @@ export default function YonetimKuruluPage() {
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
               {otherMembers.map((member) => (
                 <div key={member.id} className="card bg-white overflow-hidden group">
-                  <div className="aspect-[4/5] overflow-hidden">
+                  <div className="relative aspect-[4/5] overflow-hidden">
                     <div
                       className="absolute inset-0 bg-gradient-to-br from-[#3364ae]/80 to-[#2a5290]"
                     />
